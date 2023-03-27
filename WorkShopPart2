@@ -48,6 +48,7 @@ docker image inspect alpine
 ______________________
 
 Python Hello World File:
+print("hello world")
 
 from flask import Flask
 import os
